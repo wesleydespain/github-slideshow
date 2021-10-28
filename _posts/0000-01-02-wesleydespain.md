@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Changes to text file
 Use the left arrow to go back!
  
  
